@@ -1,7 +1,0 @@
-{
-  "compilerOptions": {
-    "baseUrl": "src"
-  }
-}
-// config js cho đường dẫn từ src - bỏ đường phần ../ ../
-// * nên config baseUrl src từ đầu vì làm xong sửa lại từng import rất mệt
